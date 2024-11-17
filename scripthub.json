@@ -1,0 +1,65 @@
+[
+   {
+      "title":"Infinite Yield",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()",
+      "image":"https://repository-images.githubusercontent.com/230387740/f3658200-3abc-11ea-973a-b024e3a60673",
+      "CreatorText":"Made by: Edge"
+   },
+   {
+      "title":"Dex",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/peyton2465/Dex/master/out.lua', true))()",
+      "image":"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/d/c/3/dc31a109b3ee55701bbfedb5e0f2a79f80e7ebd8.png",
+      "CreatorText":"Made by: Moon"
+   },
+   {
+      "title":"Owl Hub",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt', true))()",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLr_jIprcpmy5nNF35aEfcfTYMt_KjfJMz-FbTqfDOyQ&s",
+      "CreatorText":"Made by: CriShoux",
+      "CreatorSize":"10"
+   },
+   {
+      "title":"Remote Spy",
+      "script":"loadstring(game:HttpGet('https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua', true))()",
+      "image":"https://arponag.xyz/wp-content/uploads/2022/01/TnYfwL1.png",
+      "CreatorText":"Made by: exx"
+   },
+   {
+      "title":"Domain X",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/DomainX/main/source', true))()",
+      "image":"https://robloxscripts.com/wp-content/uploads/2022/05/oq29PSN-768x404.png",
+      "CreatorText":"Made by: Shlex"
+   },
+   {
+      "title":"CMD-X",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source', true))()",
+      "image":"https://repository-images.githubusercontent.com/266081512/683f2880-dd3b-11ea-94c4-f86f39ce4fe8",
+      "CreatorText":"Made by: Curvn"
+   },
+   {
+      "title":"Unnamed ESP",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua', true))()",
+      "image":"https://i.ytimg.com/vi/Pm-vq5PUmlE/maxresdefault.jpg",
+      "CreatorText":"Made by: ic3w0lf22",
+      "CreatorSize":"10"
+   },
+   {
+      "title":"V.G Hub",
+      "script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub', true))()",
+      "image":"https://i.ytimg.com/vi/9ej-8R911u4/hqdefault.jpg",
+      "CreatorText":"Made by: DekuDimz",
+      "CreatorSize":"10"
+   },
+   {
+      "title":"EZ Hub",
+      "script":"loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()",
+      "image":"https://i.imgur.com/MqNZGyl.png",
+      "CreatorText":"Made by: CDXX"
+   },
+   {
+      "title":"Fly v3",
+      "script":"loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()",
+      "image":"https://i.pinimg.com/originals/cc/a3/d5/cca3d5d93942e22ec1fdcadc87d6e20e.jpg",
+      "CreatorText":"Made by: Xeno"
+   }
+]
